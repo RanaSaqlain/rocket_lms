@@ -24,3 +24,4 @@ Homestead.json
 dev/*
 storage/framework/*
 storage/logs/*
+storage/.DS_STORE
